@@ -5,9 +5,6 @@ CKEditor-CloseDialogOutside-Plugin
 Indented to enhance the "dialog" CKEditor plugin by adding the functionality of closing (cancel) 
 the dialog if click anywhere outside of the dialog box.
 
-### Website
-https://github.com/didioh/CKEditor-CloseDialogOutside-Plugin
-
 #### License
 
 Licensed under the terms of the MIT License. See LICENSE.txt
@@ -25,3 +22,5 @@ The "dialog" CKEditor plugin is required to use this plugin. See https://ckedito
 config.extraPlugins = 'closedialogoutside';
 ````
 
+#### Website
+https://github.com/didioh/CKEditor-CloseDialogOutside-Plugin
