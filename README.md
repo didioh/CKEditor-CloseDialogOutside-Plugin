@@ -1,7 +1,7 @@
 CKEditor-CloseDialogOutside-Plugin
 ==========================
 
-Indented to enhance the "dialog" CKEditor plugin by adding the functionality of closing (cancel) 
+Indented to enhance the "dialog" CKEditor4 plugin by adding the functionality of closing (cancel) 
 the dialog when clicking anywhere outside of the dialog box.
 
 #### License
